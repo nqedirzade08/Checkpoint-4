@@ -1,4 +1,4 @@
-# Abituriyent Dəstək Botu — Checkpoint 4 (Xəta İdarəetməsi + Strukturlaşdırılmış Çıxış)
+# Checkpoint 4 (Xəta İdarəetməsi + Strukturlaşdırılmış Çıxış)
  
 Bu checkpoint əvvəlki versiyanın üzərinə iki yeni imkan əlavə edir: **xəta idarəetməsi** (məsələn, API açarının səhv olması, şəbəkə problemi və s. hallarda tətbiqin qəflətən çökməməsi) və **strukturlaşdırılmış (JSON formatlı) çıxış** — istəyə əsasən cavabın sərbəst mətn əvəzinə maşın tərəfindən oxuna bilən JSON formatında qaytarılması.
  
